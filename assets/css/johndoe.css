@@ -11506,11 +11506,15 @@ pre .code {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/assets/imgs/pradip3.png);
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/assets/imgs/pradip3.png);
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/assets/imgs/pradip3.jpeg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/assets/imgs/pradip3.jpeg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  
+
   background-attachment: fixed;
   color: #fff;
 }
@@ -11566,6 +11570,7 @@ pre .code {
     letter-spacing: 2px;
   }
 }
+
 
 .header-title {
   font-size: 2.4rem;
